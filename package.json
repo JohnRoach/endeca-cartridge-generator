@@ -1,0 +1,21 @@
+{
+  "name": "endeca-cartridge-generator",
+  "version": "1.0.0",
+  "description": "An cartridge generator for Oracle Endeca developers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cartridge",
+    "endeca",
+    "developer",
+    "generator"
+  ],
+  "author": "mateus badalotti",
+  "license": "ISC",
+  "dependencies": {
+    "java-properties": "^0.2.9",
+    "xmlbuilder": "^8.2.2"
+  }
+}

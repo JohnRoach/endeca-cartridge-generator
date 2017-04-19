@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<root>
+  <template for="node-js" to="testing-purposes">
+    <repo type="git">git://github.com/oozcitak/xmlbuilder-js.git</repo>
+  </template>
+  <test>complete</test>
+</root>
